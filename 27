@@ -1,0 +1,2 @@
+#Get the real-time logs of one the tasks of the engineering-bay servicie
+docker service logs engineering-bay --follow
